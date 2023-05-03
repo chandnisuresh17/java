@@ -25,6 +25,7 @@ public class Abst{
         Animal a = new Cat();
         Animal a1 = new Tiger();
         a.sound();
+        a1.sound();
        
         
 
